@@ -1,5 +1,6 @@
-<br/>
+<img src="./banner/github-banner.jpg" alt="Banner image">
 
+<br/>
 
 <h1 style="display: inline-block">Hi 👋, I'm Sabbir Hossain</h1>
 
