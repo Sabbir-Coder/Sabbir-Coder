@@ -7,8 +7,8 @@
 
   <!-- Typing SVG -->
   <p align="center">
-    <a href="https://github.com/sabbir749/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=100&color=000BF7&width=435&lines=Hello%2C+There...;Nice+to+meet+you!;This+is++Sabbir+Hossain...;A+Passionate+Frontend+Web+Developer" alt="Typing SVG" />
+    <a align="center" href="https://github.com/sabbir749/">
+      <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=100&color=000BF7&width=435&lines=Hello%2C+There...;Nice+to+meet+you!;This+is++Sabbir+Hossain...;A+Passionate+Frontend+Web+Developer" alt="Typing SVG" />
     </a>
   </p>
 </div>
@@ -17,14 +17,11 @@
 <br/>
 
 <!--- about --->
-- 👋 Hi, I’m **[@touhidcodes](https://github.com/touhidcodes)**
-- 🖥️ I’m currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
-- 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
-- 🛠️ I’m currently learning **React Native, GraphQL, Docker and AWS**.
-- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
-- 🌐 Explore My Portfolio **[TouhidCodes](https://touhidcodes.vercel.app/)** and My **[Resume](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO)**
-- 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/touhidur-zaman)**
-- 📫 Feel free to reach me out **[Email](touhidcodes@gmail.com)**
+- 👋 Hi, I’m **[@Sabbir Hossain](https://github.com/sabbir749)**
+- 🖥️ I’m currently working on **Html, Css, Javascript, Tailwind, React.js ** for frontend development.
+- 🗄️ Using **Node.js, Express.js, MongoDB ** for the backend.
+- 🛠️ I’m currently learning **MongoDB, NextJS **.
+- 💬 Ask me about **MERN-Stack (Html, Css, Tailwind, Javascript, React, NodeJs, Express, MongoDB)**.
   
 <br/>
 
