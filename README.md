@@ -2,13 +2,13 @@
 
 <br/>   
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Sabbir Hossain</h1></summary>
+
+  <div align="center">
+    <h1 style="display: inline-block">Hi 👋, I'm Sabbir Hossain</h1>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=A700A3&center=true&width=435&lines=Hi%2C+There...;Nice+to+meet+you!;This+is+Sabbir+Hossain...;A+Passionate+Frontend+Web+Developer)](https://git.io/typing-svg" /></a>
-  </ul>
-</div>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=A700A3&center=true&width=635&lines=Hi%2C+There...;Nice+to+meet+you!;This+is+Sabbir+Hossain...;A+Passionate+Frontend+Web+Developer" /></a>
+  </div>
+
 
 <br/>   
 
