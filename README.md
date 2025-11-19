@@ -1,18 +1,16 @@
 <img src="/banner.png" alt="Banner image">
 
-<br/>
+<br/>   
 
-<div align="center">
-  <h1 style="display: inline-block">Hi 👋, I'm Sabbir Hossain</h1>
-
-  <!-- Typing SVG -->
-  <p align="center">
-    <a align="center" href="https://github.com/sabbir749/">
-      <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=100&color=000BF7&width=435&lines=Hello%2C+There...;Nice+to+meet+you!;This+is++Sabbir+Hossain...;A+Passionate+Frontend+Web+Developer" alt="Typing SVG" />
-    </a>
-  </p>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Sabbir Hossain</h1></summary>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=A700A3&center=true&width=435&lines=Hi%2C+There...;Nice+to+meet+you!;This+is+Sabbir+Hossain...;A+Passionate+Frontend+Web+Developer)](https://git.io/typing-svg" /></a>
+  </ul>
 </div>
 
+<br/>   
 
 <br/>
 
