@@ -1,7 +1,12 @@
 <br/>
 
+
+<h1 style="display: inline-block">Hi 👋, I'm Sabbir Hossain</h1>
+
 <!--- title --->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=100&color=000BF7&width=435&lines=Hello%2C+There...;Nice+to+meet+you!;This+is++Sabbir+Hossain...;A+Passionate+Frontend+Web+Developer)](https://git.io/typing-svg)
+
+
 
 <br/>
 
