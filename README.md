@@ -7,8 +7,18 @@
 <!--- title --->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=100&color=000BF7&width=435&lines=Hello%2C+There...;Nice+to+meet+you!;This+is++Sabbir+Hossain...;A+Passionate+Frontend+Web+Developer)](https://git.io/typing-svg)
 
+<br/>
 
-
+<!--- about --->
+- 👋 Hi, I’m **[@touhidcodes](https://github.com/touhidcodes)**
+- 🖥️ I’m currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
+- 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
+- 🛠️ I’m currently learning **React Native, GraphQL, Docker and AWS**.
+- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
+- 🌐 Explore My Portfolio **[TouhidCodes](https://touhidcodes.vercel.app/)** and My **[Resume](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO)**
+- 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/touhidur-zaman)**
+- 📫 Feel free to reach me out **[Email](touhidcodes@gmail.com)**
+  
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir749&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir749" /> </p>
