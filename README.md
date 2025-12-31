@@ -50,7 +50,7 @@ ___Other Skills___: <br/><br/>
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Sabbir-Coder&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
-#  <img src="/svg1.webp"  width="39" alt="svg"> Github Contributors: 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sabbir-Coder/Sabbir-Coder/output/snake-dark.svg">
   <img src="https://raw.githubusercontent.com/Sabbir-Coder/Sabbir-Coder/output/snake.svg">
